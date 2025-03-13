@@ -27,6 +27,7 @@ pyzbar – For decoding QR codes
 tkinter – For GUI interface
 
 📂 Project Structure
+
 QR_Code_Generator_And_Scanner/
 ├── generator.py        # Python script for generating QR codes
 ├── scanner.py          # Python script for scanning QR codes
