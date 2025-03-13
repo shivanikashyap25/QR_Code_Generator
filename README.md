@@ -58,6 +58,8 @@ Point the camera at a QR code or upload an image.
 
 The decoded information appears instantly!
 
+
+
 📦 Installation (For Python Users)
 
 If you prefer running the scripts directly, install dependencies:
@@ -66,6 +68,8 @@ pip install qrcode opencv-python pyzbar pillow
 Then, execute:
 python generator.py
 python scanner.py
+
+
 
 🎯 Future Enhancements
 
